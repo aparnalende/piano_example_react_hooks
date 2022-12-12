@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aparnalende/piano_example_react_hooks.git/static/css/main.2ea270a6.chunk.css",
+    "main.js": "/aparnalende/piano_example_react_hooks.git/static/js/main.b71f621c.chunk.js",
+    "main.js.map": "/aparnalende/piano_example_react_hooks.git/static/js/main.b71f621c.chunk.js.map",
+    "runtime-main.js": "/aparnalende/piano_example_react_hooks.git/static/js/runtime-main.adbf247e.js",
+    "runtime-main.js.map": "/aparnalende/piano_example_react_hooks.git/static/js/runtime-main.adbf247e.js.map",
+    "static/js/2.716792c0.chunk.js": "/aparnalende/piano_example_react_hooks.git/static/js/2.716792c0.chunk.js",
+    "static/js/2.716792c0.chunk.js.map": "/aparnalende/piano_example_react_hooks.git/static/js/2.716792c0.chunk.js.map",
+    "index.html": "/aparnalende/piano_example_react_hooks.git/index.html",
+    "precache-manifest.69d2362e6220645715264d9b92fbdccd.js": "/aparnalende/piano_example_react_hooks.git/precache-manifest.69d2362e6220645715264d9b92fbdccd.js",
+    "service-worker.js": "/aparnalende/piano_example_react_hooks.git/service-worker.js",
+    "static/css/main.2ea270a6.chunk.css.map": "/aparnalende/piano_example_react_hooks.git/static/css/main.2ea270a6.chunk.css.map",
+    "static/js/2.716792c0.chunk.js.LICENSE": "/aparnalende/piano_example_react_hooks.git/static/js/2.716792c0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adbf247e.js",
+    "static/js/2.716792c0.chunk.js",
+    "static/css/main.2ea270a6.chunk.css",
+    "static/js/main.b71f621c.chunk.js"
+  ]
+}
